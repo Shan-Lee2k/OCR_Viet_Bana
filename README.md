@@ -33,3 +33,7 @@ This helps remove noise from image and improve OCR quality.
 - Create two empty folder "Final" and "Final corrected"
 + Folder Final : Contains result OCR on folder Binary Image.
 + Folder "Final corrected": This folder contains the final result. The task is to find and replace all common mistakes.
++ Run command:
+```
+python ocr_binary_img.py
+``` 
