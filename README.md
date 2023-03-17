@@ -16,6 +16,6 @@ python split_image.py
     + Folder "TU DIEN VIET-BAHNAR" perform task 1: Convert file PDF into every single image.
     ![page_006](https://user-images.githubusercontent.com/120365693/225835125-830f57ad-671c-4535-9137-278c75ba6917.jpg)
     + Folder "Split Image" perform task 2: Split image into 2 image contains text. Because OCR is not good enough when perfroming on dictionary.
-    + Các ký tự trong ảnh sẽ được đọc và lưu kết quả dưới dạng file txt trong folder TU DIEN VIET-BAHNAR_converted
-- Lưu ý: Trước khi chạy cần tạo các folder có tên là TU DIEN VIET-BAHNAR, Split Image, TU DIEN VIET-BAHNAR_converted
+    + Folder TU DIEN VIET-BAHNAR_converted : 
+
 # BINARIZATION IMAGE TO REMOVE NOISE TO IMPROVE QUALITY OCR
