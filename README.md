@@ -37,3 +37,5 @@ This helps remove noise from image and improve OCR quality.
 ```
 python ocr_binary_img.py
 ``` 
+### CONCLUSION
+The final result of this project is not yet perfect because the OCR Tesseract tool does not support the Bana language. Therefore, we need a Bana language model to correct the wrong characters and improve the project's accuracy.
